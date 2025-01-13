@@ -1,0 +1,25 @@
+# id	nom
+1	Bab Mansour
+2	Cité portugaise
+5	Dar Dbagh
+7	Kasbah Aït Ben Haddou
+8	Kasbah des Oudayas
+9	Koubba Almoravide
+6	Koutoubia
+22	La mosquée Al Quaraouiyine
+21	La synagogue Ibn Danan
+20	La tour Hassan
+24	La ville de Chefchaouen
+23	Le château d’Aïn Asserdoun
+19	Le mausolée Mohammed V
+12	Le mausolée Moulay Idriss Zerhoun
+18	Le palais Bahia à Marrakech
+17	Le palais El Badi à Marrakech
+11	Le palais royal de Fès
+10	Le site archéologique de Lixus
+16	Les grottes d’Hercule à Tanger
+15	Les portes de Meknès
+14	Les ruines de Volubilis
+3	Mosquée Hassan II
+4	Médina de Tétouan
+13	Place Jemaa el-Fna
